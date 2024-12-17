@@ -12,7 +12,7 @@ I'm an upcoming Software Engineer, Cloud Engineer, and DevOps Engineer who curre
 - 🌱 I’m currently learning Html, CSS, Javascript, Git and GitHub.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Software Engineer, Front Engineer, or UI Engineer (Intern or Junior level).
-- 📫 You can [view my resume](https://drive.google.com/drive/my-drive) and contact me by emailing davidimehemmanuel@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1j2riUk5UrBQUHD_gjOan6bUD8ueM1f0r/view?usp=drive_link) and contact me by emailing davidimehemmanuel@gmail.com.
 
 ---
 
